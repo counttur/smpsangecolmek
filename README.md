@@ -1,2 +1,2 @@
-# smpsangecolmek
-smpsangecolmek
+[smpsangecolmek](https://smpsangecolmek.pages.dev)
+Fork the [repository](https://github.com/ceriguna) on GitHub.
