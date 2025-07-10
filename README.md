@@ -1,2 +1,1 @@
-# smpsangecolmek
-smpsangecolmek
+# [smpsangecolmek](https://smpsangecolmek.pages.dev)
